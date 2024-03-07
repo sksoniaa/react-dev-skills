@@ -1,0 +1,19 @@
+.SkillListItem{
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid chocolate;
+  margin: 10px;
+  padding: 10px;
+}
+.SkillListItem > div{
+  background-color: rgb(69, 39, 109);
+  color: white;
+  height: 40px;
+  width: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}

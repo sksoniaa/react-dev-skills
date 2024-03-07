@@ -1,0 +1,33 @@
+.NewSkillForm{
+  border: 2px solid chocolate;
+  margin: 10px;
+  padding: 10px;
+}
+
+.NewSkillForm label{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.NewSkillForm input{
+  width: 192px;
+  height: 30px;
+  border: 2px solid rgb(69, 39, 109);
+}
+
+.NewSkillForm select{
+  width: 200px;
+  height: 35px;
+  border: 2px solid rgb(69, 39, 109);
+
+}
+
+.NewSkillForm button{
+  height: 30px;
+  width: 100%;
+  background-color: rgb(69, 39, 109);
+  color: white;
+  font-weight: 600;
+}
